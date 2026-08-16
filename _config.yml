@@ -1,6 +1,8 @@
 title: Mingyang's github page
 url: https://vstommy324.github.io/mypage
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
 
 author:
   name: Gao Mingyang
