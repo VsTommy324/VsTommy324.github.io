@@ -2,14 +2,17 @@ title: Mingyang's github page
 url: https://vstommy324.github.io/mypage
 theme: minimal-mistakes-jekyll
 
-sidebar:
-  title: Mingyang
-  nav:
-    - title: Home
-      url: /
-    - title: Research
-      url: /research/
-    - title: Publications
-      url: /publications/
-    - title: Contact
-      url: /contact/
+author:
+  name: Gao Mingyang
+  avatar: /assets/images/profile.jpg
+  bio: Incoming PhD student in Electronic Engineering, CUHK
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "gmy6757@connect.hku.hk"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/vstommy324"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/mingyang-gao-3a194133a/"
