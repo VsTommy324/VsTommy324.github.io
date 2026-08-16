@@ -1,1 +1,15 @@
+title: Mingyang's github page
+url: https://vstommy324.github.io/mypage
 theme: minimal-mistakes-jekyll
+
+sidebar:
+  title: Mingyang
+  nav:
+    - title: Home
+      url: /
+    - title: Research
+      url: /research/
+    - title: Publications
+      url: /publications/
+    - title: Contact
+      url: /contact/
