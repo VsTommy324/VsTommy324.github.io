@@ -4,3 +4,5 @@ Welcome to my page! I am Gao Mingyang, a current year 4 Statistics student in Un
 
 ## Research Interest
 My pursuit in research is to develop methods that have theoretical guarantees and are practically effective, which can find applications in LLM training, machine learning, and signal processing. Specifically, my research interests are: nonconvex optimization, SGD-type algorithms, LLM quantization and compression, and hyperspectral unmixing algorithms.
+
+[CV](assets/Mingyang_CV_recent.pdf)
