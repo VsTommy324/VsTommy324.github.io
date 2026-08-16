@@ -5,7 +5,6 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: Gao Mingyang
   avatar: /assets/images/profile.jpg
   bio: Incoming PhD student in Electronic Engineering, CUHK
   links:
