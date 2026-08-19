@@ -1,6 +1,7 @@
 title: Mingyang's github
 url: https://vstommy324.github.io/mypage
 remote_theme: mmistakes/minimal-mistakes
+layout: single
 plugins:
   - jekyll-include-cache
 
