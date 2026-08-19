@@ -1,7 +1,3 @@
 title: Your Name
-description: Ph.D. Candidate / Researcher in [Your Field]
+description: Academic personal website
 theme: jekyll-theme-minimal
-
-# Optional: add your social links
-github:
-  is_project_page: false
