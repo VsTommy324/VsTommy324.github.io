@@ -6,7 +6,7 @@ plugins:
 
 author:
   avatar: /assets/images/profile.jpg
-  bio: Incoming PhD student in Electronic Engineering, CUHK
+  bio: Incoming PhD student in CUHK Engineering
   links:
     - label: "Email"
       icon: "fas fa-envelope"
