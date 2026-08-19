@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Your Name
+title: Mingyang
 ---
 
 ## About
 
 I am a [position] at [Institution]. My research focuses on [brief description].
 
-[Download CV](./assets/cv.pdf)
+[Download CV](./assets/Mingyang_CV_recent.docx)
 
 ---
 
@@ -28,9 +28,9 @@ I am a [position] at [Institution]. My research focuses on [brief description].
 
 ## Contact
 
-- Email: your.email@institution.edu
+- Email: gmy6757@connect.hku.hk
 - GitHub: [yourusername](https://github.com/yourusername)
-- Google Scholar: [Profile](https://scholar.google.com/citations?user=YOUR_ID)
+- LinkedIn: [Profile](https://scholar.google.com/citations?user=YOUR_ID)
 
 ---
 
