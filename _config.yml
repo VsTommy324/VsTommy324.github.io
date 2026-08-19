@@ -1,26 +1,7 @@
-title: Mingyang's github
-url: https://vstommy324.github.io/mypage
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-include-cache
+title: Your Name
+description: Ph.D. Candidate / Researcher in [Your Field]
+theme: jekyll-theme-minimal
 
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-
-author:
-  avatar: /assets/images/profile.jpg
-  bio: Incoming PhD student in CUHK Engineering
-  links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "gmy6757@connect.hku.hk"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/vstommy324"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/mingyang-gao-3a194133a/"
+# Optional: add your social links
+github:
+  is_project_page: false
