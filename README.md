@@ -1,9 +1,3 @@
----
-layout: single
-title: Home
----
-
-# Mingyang 
 ## Intro
 Welcome to my page! I am Gao Mingyang, a current year 4 Statistics student in University of Hong Kong. I am an incoming Phd student to the department of Electronic Engineering, the Chinese University of Hong Kong, starting 2027 Fall. I will be jointly supervised by Professor Wing King Ma and Professor Wai Hoi To from CUHK System Engineering and Engineering Management.
 
