@@ -1,37 +1,24 @@
----
-layout: default
-title: Mingyang
+# Your Name
+*PhD Candidate / Postdoc / Professor — Your Department, Your University*
+
+[Email](mailto:you@university.edu) | [Google Scholar](https://scholar.google.com) | [ORCID](https://orcid.org) | [GitHub](https://github.com/yourusername)
+
 ---
 
 ## About
+I work on [your research area]. My research focuses on [specific topics].
 
-I am a [position] at [Institution]. My research focuses on [brief description].
-
-[Download CV](./assets/Mingyang_CV_recent.docx)
-
----
-
-## Research Interests
-
-- Interest 1
-- Interest 2
-- Interest 3
-
----
+## Education
+- **Ph.D.** in Subject, University Name, 20XX–20XX
+- **M.S.** in Subject, University Name, 20XX–20XX
+- **B.S.** in Subject, University Name, 20XX
 
 ## Publications
+1. **Your Name**, Co-author. *Paper Title.* Conference/Journal Name, Year. [[PDF]](link) [[Code]](link)
+2. **Your Name**, Co-author. *Paper Title.* Conference/Journal Name, Year. [[PDF]](link)
 
-1. **Your Name**, Co-author. "Paper Title." *Journal Name*, Year. [PDF](./assets/paper1.pdf)
-2. **Your Name**, Co-author. "Another Paper." *Conference Name*, Year.
+## Teaching
+- **Course Name** (TA/Lecturer), University, Semester Year
 
----
-
-## Contact
-
-- Email: gmy6757@connect.hku.hk
-- GitHub: [yourusername](https://github.com/yourusername)
-- LinkedIn: [Profile](https://scholar.google.com/citations?user=YOUR_ID)
-
----
-
-*Last updated: August 2026*
+## Projects
+- [Project Name](link) — Brief description.
