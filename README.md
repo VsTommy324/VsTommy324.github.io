@@ -13,7 +13,6 @@ Hi! I am a final year Statistics undergrad in HKU. I am an incoming Phd student 
 - **BSc.**  Statistics, HKU, 2023-2027
 
 ## Publications
-1. **Your Name**, Co-author. *Paper Title.* Conference/Journal Name, Year. [[PDF]](link) [[Code]](link)
 
 ## Teaching
 - **Probability and Statistics II** (UTA), HKU, 2026-2027 semester 1
