@@ -1,7 +1,7 @@
 # Gao MingYang
 *Year 4 Statistics Undergraduate in HKU*
 
-[Email](mailto:gmy6757@connect.hku.hk) | [GitHub](https://github.com/VsTommy324)| [inkdeIn](https://www.linkedin.com/notifications/?filter=all)
+[Email](mailto:gmy6757@connect.hku.hk) | [GitHub](https://github.com/VsTommy324)| [LinkdeIn](https://www.linkedin.com/notifications/?filter=all)
 
 ---
 
