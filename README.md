@@ -3,8 +3,6 @@
 
 [Email](mailto:gmy6757@connect.hku.hk) | [GitHub](https://github.com/VsTommy324)| [LinkdeIn](https://www.linkedin.com/notifications/?filter=all)
 
----
-
 ## About
 Hi! I am a final year Statistics undergrad in HKU. I am an incoming Phd student to CUHK Faculty of Engineering, where I would be supervised by Professor Ma Wing King in Electronic Engineering, and Professor Wai Hai To in System Engineering. My research interest is nonconvex optimization, distributed optimization, RL, and matrix factorization.
 
