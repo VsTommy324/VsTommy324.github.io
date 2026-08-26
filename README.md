@@ -12,6 +12,8 @@ Hi! I am a final year Statistics undergrad in HKU. I am an incoming Phd student 
 
 ## Publications
 
+**Predicting Recovery in Group Long-Term Disability Insurance with Optimized Explainable Machine Learning** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7352605
+
 ## Teaching
 - **Probability and Statistics II** (UTA), HKU, 2026-2027 semester 1
 
