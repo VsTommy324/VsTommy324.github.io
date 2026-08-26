@@ -9,7 +9,7 @@ Hi! I am a final year Statistics undergrad in HKU. I am an incoming Phd student 
 ## Education
 - **Phd.** Faculty of Engineering, CUHK, Incoming
 - **BSc.**  Statistics, HKU, 2023-2027
-- 
+
 ## Teaching
 - **Probability and Statistics II** (UTA), HKU, 2026-2027 semester 1
 
