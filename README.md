@@ -9,11 +9,7 @@ Hi! I am a final year Statistics undergrad in HKU. I am an incoming Phd student 
 ## Education
 - **Phd.** Faculty of Engineering, CUHK, Incoming
 - **BSc.**  Statistics, HKU, 2023-2027
-
-## Publications
-
-**Predicting Recovery in Group Long-Term Disability Insurance with Optimized Explainable Machine Learning** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7352605
-
+- 
 ## Teaching
 - **Probability and Statistics II** (UTA), HKU, 2026-2027 semester 1
 
@@ -25,3 +21,7 @@ To decrease the computational burden of solving exact matrix inversion when conv
 -**Automatic Optimization of Explainable Machine-Learning Models for Predicting Insurance Recovery**
 
 The project investigates the use of machine learning models in predicting insurance recovery, an important application scenario. Our work differentiate itself through the use of Optuna - an automatic hyperparameter optimization package - to conduct model optimization, its novel feature engineering, and its use of SHAP - Shapely Additive Variable Explanation - to provide explainable ML models. 
+
+## Publications
+
+**Predicting Recovery in Group Long-Term Disability Insurance with Optimized Explainable Machine Learning** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7352605
