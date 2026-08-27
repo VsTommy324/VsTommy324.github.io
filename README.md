@@ -14,7 +14,7 @@ Hi! I am a final year Statistics undergrad in HKU. I am an incoming Phd student 
 - **Probability and Statistics II** (UTA), HKU, 2026-2027 semester 1
 
 ## Projects
--**Approximate MCMC Algorithm for gaussian process (GP)**
+-**Approximate MCMC Algorithm for Gaussian Process (GP)**
 
 To decrease the computational burden of solving exact matrix inversion when conventional MCMC is used for GP, a practical and popular approach is to replace the matrix inversion with approximate methods, e.g. the conjugate gradient (CG). However, theoretically the Markov chain of the approximate MCMC sampler can no longer be assumed to have a stationary distribution, and its contraction rates is unknown. Taking a step back, even for an exact chain with GP, there exists a lack in existing literature about its contraction rate. To provide theoretical guarantees for the popular approximate methods, we proved first the contraction rates for the exact chain, using methods from ergodicity works such as drift & minorization and random mapping. Afterwards we introduce the approximation error and provide bounds on the contraction.
 
